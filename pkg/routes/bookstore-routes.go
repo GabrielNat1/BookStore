@@ -1,7 +1,7 @@
 package routes
 
 import (
-	"github.com/GabrielNat1/Bookstore/pkg/controllers"
+	"github.com/GabrielNat1/BookStore/pkg/controllers"
 	"github.com/gorilla/mux"
 )
 
