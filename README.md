@@ -50,10 +50,6 @@ This project is a REST API built with Go for managing a book catalog. It follows
 3. **Run the application**  
     ```bash  
    go run cmd/main.go  
-   ```  
-
-## 📜 License  
-
-This project is licensed under the [MIT](LICENSE) license.  
-
+   ```
+    
 ---
