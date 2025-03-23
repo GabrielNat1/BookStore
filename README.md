@@ -40,7 +40,7 @@ This project is a REST API built with Go for managing a book catalog. It follows
 
 1. **Clone the repository**  
    ```bash
-   git clone https://github.com/your-username/repo-name.git  
+   git clone https://github.com/GabrielNat1/BookStore 
    cd repo-name  
    ```  
 2. **Install dependencies**  
