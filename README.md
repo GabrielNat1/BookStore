@@ -34,7 +34,7 @@ This project is a REST API built with Go for managing a book catalog. It follows
 
 - Go (Golang)  
 - Gin (for routing)  
-- Database (e.g., PostgreSQL or MongoDB, depending on configuration)  
+- Database (mysql)  
 
 ## 🏗 How to Run  
 
